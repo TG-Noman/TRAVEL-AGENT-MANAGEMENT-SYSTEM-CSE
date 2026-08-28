@@ -1,0 +1,142 @@
+1.Booking ID: gh67
+2.Customer ID: 106
+3.Tour ID: ps89
+4.Customer Name: Nayeem Mahmud
+5.Booking Date: 7 August 26
+6.Number of People: 4
+7.Traveler Type: person
+8.Tour Type: premium
+9.Total Cost: Pending
+10.Amount paid: 0.00
+11.Payment Status: Pending
+12.Booking Status: Pending
+
+1.Booking ID: bk102
+2.Customer ID: 128
+3.Tour ID: tg25
+4.Customer Name: Hasan Mahmud
+5.Booking Date: 6 August 26
+6.Number of People: 4
+7.Traveler Type: person
+8.Tour Type: normal
+9.Total Cost: Pending
+10.Amount paid: 0.00
+11.Payment Status: No refund will be given as the booking was unpaid.
+12.Booking Status: canceled(Before Tour)
+
+1.Booking ID: bk103
+2.Customer ID: 256
+3.Tour ID: ps89
+4.Customer Name: Rohan ahmed
+5.Booking Date: 7 August
+6.Number of People: 4
+7.Traveler Type: person
+8.Tour Type: normal
+9.Total Cost: 8800.00 
+10.Amount paid: 8800.00 
+11.Payment Status: refund successful( 4400.00 taka)
+12.Booking Status: canceled
+
+1.Booking ID: bk104
+2.Customer ID: 128
+3.Tour ID: tg89
+4.Customer Name: Hasan Mahmud
+5.Booking Date: 8 August
+6.Number of People: 2
+7.Traveler Type: person
+8.Tour Type: premium
+9.Total Cost: 15200.00 
+10.Amount paid: 0.00 
+11.Payment Status: Pending
+12.Booking Status: Pending
+
+1.Booking ID: bk105
+2.Customer ID: 205
+3.Tour ID: tg74
+4.Customer Name: Rahim
+5.Booking Date: 9 August
+6.Number of People: 3
+7.Traveler Type: person
+8.Tour Type: normal
+9.Total Cost: 16500.00
+10.Amount paid: 16500.00
+11.Payment Status: paid  ( 7 october 26 )
+12.Booking Status: confirmed
+
+1.Booking ID: bk106
+2.Customer ID: 131
+3.Tour ID: tg74
+4.Customer Name: Sohana afrin
+5.Booking Date: 10 August
+6.Number of People: 4
+7.Traveler Type: person
+8.Tour Type: normal
+9.Total Cost: 140000.00
+10.Amount paid: 140000.00
+11.Payment Status: paid ( 8 october 26 )
+12.Booking Status: confirmed
+
+1.Booking ID: bk107
+2.Customer ID: 129
+3.Tour ID: tg88
+4.Customer Name: Tasnim Jahan
+5.Booking Date: 11 August
+6.Number of People: 2
+7.Traveler Type: person
+8.Tour Type: premium
+9.Total Cost: Pending
+10.Amount paid: 0.00
+11.Payment Status: No refund will be given as the booking was unpaid.
+12.Booking Status: canceled(Before Tour)
+
+1.Booking ID: bk108
+2.Customer ID: 128
+3.Tour ID: tg89
+4.Customer Name: Hasan Mahmud
+5.Booking Date: 15 august
+6.Number of People: 6
+7.Traveler Type: person
+8.Tour Type: premium
+9.Total Cost: 45600.00 
+10.Amount paid:45600.00 
+11.Payment Status: refund successful( 22800.00 taka)
+12.Booking Status: canceled
+
+1.Booking ID: bk109
+2.Customer ID: 114
+3.Tour ID: tg88
+4.Customer Name: Mahmudul Hasan
+5.Booking Date: 9 september
+6.Number of People: 4
+7.Traveler Type: person
+8.Tour Type: premium
+9.Total Cost: Pending
+10.Amount paid: 0.00
+11.Payment Status: No refund will be given as the booking was unpaid.
+12.Booking Status: canceled(Before Tour)
+
+1.Booking ID: jk67
+2.Customer ID: 114
+3.Tour ID: tg111
+4.Customer Name: Jannatul Ferdous
+5.Booking Date: 8 september 26
+6.Number of People: 2
+7.Traveler Type: person
+8.Tour Type: premium
+9.Total Cost: Pending
+10.Amount paid: 0.00
+11.Payment Status: Pending
+12.Booking Status: Pending
+
+1.Booking ID: bk89
+2.Customer ID: 128
+3.Tour ID: tg89
+4.Customer Name: Hasan mahmud
+5.Booking Date: 26 august 26
+6.Number of People: 7
+7.Traveler Type: person
+8.Tour Type: normal
+9.Total Cost: 39200.00 
+10.Amount paid:39200.00 
+11.Payment Status: paid( 27 august 26 )
+12.Booking Status: confirmed

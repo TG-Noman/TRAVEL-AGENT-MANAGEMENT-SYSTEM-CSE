@@ -1,0 +1,187 @@
+# depslib dependency file v1.0
+1787775323 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\customer_management.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Customer_Management.h"
+
+1787775055 c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\customer_management.h
+
+1787769726 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Customer_Management.h"
+	"Tour_Package_Management.h"
+	"Booking_Management.h"
+	"Payment_Management.h"
+	"Report_Statistics_Management.h"
+	"Search_And_Filter.h"
+	"Admin_Settings.h"
+	"Customer_Sign_Up.h"
+
+1787775055 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\tour_package_management.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tour_Package_Management.h"
+
+1787740059 c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\tour_package_management.h
+
+1787775055 c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\booking_management.h
+
+1787776713 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\booking_management.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Booking_Management.h"
+	"Customer_Management.h"
+
+1787775055 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\payment_management.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Payment_Management.h"
+
+1787775055 c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\payment_management.h
+
+1787775055 c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\report_statistics_management.h
+
+1787739965 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\report_statistics_management.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Report_Statistics_Management.h"
+
+1787262372 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\search_and_filter.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Search_And_Filter.h"
+
+1787775055 c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\search_and_filter.h
+
+1787775055 c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\admin_settings.h
+
+1787776713 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\admin_settings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Admin_Settings.h"
+
+1787772569 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\customer_login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Customer_Login.h"
+	"Customer_Management.h"
+	"Tour_Package_Management.h"
+	"Booking_Management.h"
+	"Payment_Management.h"
+
+1787775055 c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\customer_login.h
+
+1787739965 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\customer_sign_up.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Customer_Sign_Up.h"
+	"Customer_Management.h"
+	"Booking_Management.h"
+	"Customer_Login.h"
+
+1787775055 c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\customer_sign_up.h
+
+1787859535 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\source\admin_settings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Admin_Settings.h"
+
+1787775055 c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\header\admin_settings.h
+
+1787863456 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\source\customer_login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Customer_Login.h"
+	"Customer_Management.h"
+	"Tour_Package_Management.h"
+	"Booking_Management.h"
+	"Payment_Management.h"
+
+1787775055 c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\header\customer_login.h
+
+1787775055 c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\header\customer_management.h
+
+1787740059 c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\header\tour_package_management.h
+
+1787775055 c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\header\booking_management.h
+
+1787775055 c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\header\payment_management.h
+
+1787858840 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\source\customer_sign_up.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Customer_Sign_Up.h"
+	"Customer_Management.h"
+	"Booking_Management.h"
+	"Customer_Login.h"
+
+1787775055 c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\header\customer_sign_up.h
+
+1787862845 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\source\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Customer_Management.h"
+	"Tour_Package_Management.h"
+	"Booking_Management.h"
+	"Payment_Management.h"
+	"Report_Statistics_Management.h"
+	"Search_And_Filter.h"
+	"Admin_Settings.h"
+	"Customer_Sign_Up.h"
+
+1787775055 c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\header\report_statistics_management.h
+
+1787775055 c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\header\search_and_filter.h
+
+1787861340 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\source\tour_package_management.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tour_Package_Management.h"
+
+1787867247 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\source\booking_management.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Booking_Management.h"
+	"Customer_Management.h"
+
+1787859535 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\source\report_statistics_management.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Report_Statistics_Management.h"
+
+1787863362 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\source\payment_management.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Payment_Management.h"
+
+1787858853 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\source\search_and_filter.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Search_And_Filter.h"
+
+1787862114 source:c:\users\lenovo\onedrive\pictures\desktop\travel agent managment system\source\customer_management.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Customer_Management.h"
+
